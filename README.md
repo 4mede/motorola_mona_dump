@@ -1,0 +1,14 @@
+# user 16 VVA35V-W1-ST15.1 ba798b release-keys
+- manufacturer: motorola
+- platform: parrot
+- codename: mona
+- flavor: user
+- release: 16
+- id: VVA35V-W1-ST15.1
+- incremental: ba798b
+- tags: release-keys
+- fingerprint: motorola/mona/mona:15/VVA35V-W1-ST15.1/ba798b:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-16-VVA35V-W1-ST15.1-ba798b-release-keys
+- repo: motorola_mona_dump
