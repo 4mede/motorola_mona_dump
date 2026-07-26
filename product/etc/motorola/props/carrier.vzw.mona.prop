@@ -1,0 +1,2 @@
+# Disable MEP feature for Verizon only
+ro.mot.MepEnabled=false
