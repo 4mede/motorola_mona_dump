@@ -1,0 +1,2 @@
+# Disable MEP feature for Dish (IKSWV-131273)
+ro.mot.MepEnabled=false
