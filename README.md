@@ -1,0 +1,14 @@
+# user 16 VVA3S5V-W1-ST15.1 5d4b3 release-keys
+- manufacturer: motorola
+- platform: parrot
+- codename: mona
+- flavor: user
+- release: 16
+- id: VVA3S5V-W1-ST15.1
+- incremental: 5d4b3
+- tags: release-keys
+- fingerprint: motorola/mona/mona:15/VVA3S5V-W1-ST15.1/5d4b3:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-16-VVA3S5V-W1-ST15.1-5d4b3-release-keys
+- repo: motorola_mona_dump
